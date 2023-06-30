@@ -1,11 +1,8 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/luomus/luomus.r-universe.dev
-	shallow = true
 	branch = HEAD
 [submodule "finbif"]
 	path = finbif
 	url = https://github.com/luomus/finbif
-	shallow = true
 	branch = dev
-	registered = true

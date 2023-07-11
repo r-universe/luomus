@@ -6,3 +6,7 @@
 	path = finbif
 	url = https://github.com/luomus/finbif
 	branch = dev
+[submodule "fgc"]
+	path = fgc
+	url = https://github.com/luomus/finbif-geo-convert
+	branch = dev

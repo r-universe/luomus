@@ -14,3 +14,7 @@
 	path = f2g
 	url = https://github.com/luomus/finbif2gbif
 	branch = dev
+[submodule "fbi"]
+	path = fbi
+	url = https://github.com/luomus/fin-biodiv-indicators
+	branch = dev

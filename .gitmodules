@@ -2,14 +2,6 @@
 	path = .registry
 	url = https://github.com/luomus/luomus.r-universe.dev
 	branch = HEAD
-[submodule "finbif"]
-	path = finbif
-	url = https://github.com/luomus/finbif
-	branch = dev
-[submodule "fgc"]
-	path = fgc
-	url = https://github.com/luomus/finbif-geo-convert
-	branch = dev
 [submodule "f2g"]
 	path = f2g
 	url = https://github.com/luomus/finbif2gbif
@@ -17,6 +9,14 @@
 [submodule "fbi"]
 	path = fbi
 	url = https://github.com/luomus/fin-biodiv-indicators
+	branch = dev
+[submodule "fgc"]
+	path = fgc
+	url = https://github.com/luomus/finbif-geo-convert
+	branch = dev
+[submodule "finbif"]
+	path = finbif
+	url = https://github.com/luomus/finbif
 	branch = dev
 [submodule "rbms"]
 	path = rbms

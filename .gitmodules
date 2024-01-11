@@ -18,6 +18,10 @@
 	path = finbif
 	url = https://github.com/luomus/finbif
 	branch = dev
+[submodule "haahka"]
+	path = haahka
+	url = https://github.com/luomus/haahka
+	branch = dev
 [submodule "rbms"]
 	path = rbms
 	url = https://github.com/RetoSchmucki/rbms

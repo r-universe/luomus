@@ -22,7 +22,3 @@
 	path = haahka
 	url = https://github.com/luomus/haahka
 	branch = dev
-[submodule "rbms"]
-	path = rbms
-	url = https://github.com/RetoSchmucki/rbms
-	registered = false
